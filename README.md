@@ -104,8 +104,8 @@ Interactive slicers allow filtering by fuel type, vehicle type, ownership, and s
 
 ## Key Results & Insights
 
-* **Vehicle age and distance driven are the strongest drivers of resale price decline.**
-* **Single-owner vehicles command a consistent price premium**, acting as a trust signal.
+* Vehicle age and distance driven are the strongest drivers of resale price decline.
+* Single-owner vehicles command a consistent price premium, acting as a trust signal.
 * Diesel vehicles and SUVs tend to retain higher value than other segments.
 * Older vehicles contribute higher inventory volume but lower overall value.
 * Regional (state-level) price variation highlights demand differences across markets.
@@ -130,7 +130,7 @@ Interactive slicers allow filtering by fuel type, vehicle type, ownership, and s
 3. **Power BI Dashboard**
 
    * Open the `.pbix` file in Power BI Desktop
-   * Refresh data connection (PostgreSQL)
+   * Refresh data connection (MySQL)
    * Explore dashboard using slicers
 
 4. **Presentation**
